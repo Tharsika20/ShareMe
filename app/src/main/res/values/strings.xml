@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">ShareMe</string>
+    <string name="username">"Username"</string>
+    <string name="prompt_email">Email</string>
+    <string name="password">New password</string>
+    <string name="signup">Sign up</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_invalid_username">The username is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="terms">By clicking SIGN UP you confirm that you agree to the terms of use</string>
+    <string name="or">OR</string>
+
+    <string name="facebook_app_id" translatable="false">1184762848339224</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1184762848339224</string>
+
+    <string name="description">Description: Here there will be a description of the item</string>
+    <string name="price">Price: Here the price per hour will be displayed</string>
+    <string name="user">Username</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="normal">Normal</string>
+    <string name="satellite">Satellite</string>
+    <string name="hybrid">Hybrid</string>
+
+    <string name="date">Date:</string>
+    <string name="datebtn">Choose date</string>
+    <string name="time">Time:</string>
+    <string name="timebtn">Choose time</string>
+    <string name="duration">Duration(in hours): </string>
+    <string name="msg">Message for user:</string>
+    <string name="request">Send request</string>
+
+    <string name="title_activity_creditcard">Credit card details</string>
+    <string name="cardholder">Credit card holder</string>
+    <string name="cardnumber">Card number</string>
+    <string name="expdate">Expiration date (MMYY) </string>
+    <string name="cvc">Security number </string>
+    <string name="save">Save</string>
+    <string name="error_invalid_cardno">Your cardno is too short</string>
+    <string name="error_invalid_expdate">Your expiration date is too short</string>
+    <string name="error_invalid_cvc">Your security number is too short</string>
+    <string name="error_invalid_method">You must choose a payment method</string>
+
+    <string-array name="cardtypes">
+        <item>Choose payment method</item>
+        <item>Visa</item>
+        <item>MasterCard</item>
+        <item>Express</item>
+    </string-array>
+
+    <string name="start">Get started!</string>
+    <string name="welcome">You have signed up successfully! Welcome to:</string>
+
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="permission_rationale">Contacts permissions are needed for providing email
+        completions.</string>
+
+    <string name="createnewaccount"> <u> Create new account </u> </string>
+    <string name="guest"> <u> Continue as guest </u> </string>
+    <string name="borrow">Borrow</string>
+    <string name="lent">Lent</string>
+    <string name="history">Booking History</string>
+    <string name="share">Share in Group</string>
+    <string name="action_search">Search</string>
+    <string name="header">ShareMe</string>
+    <string name="title_activity_borrow_page">Borrow_page</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="save_button_label">Save</string>
+    <string name="addressHint">Address</string>
+    <string name="priceHint">Price</string>
+    <string name="descriptionHint">Description</string>
+    <string name="nameHint">Name</string>
+    <string name="title_activity_about">About ShareMe</string>
+    <string name="about" translatable="false">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.</string>
+    <string name="aboutshareme"><b>About ShareMe and conditions of use</b></string>
+
+    <string name="useraccount">User Account</string>
+    <string name="whatilent">What I Lent</string>
+    <string name="whatiborrow">What I Borrow</string>
+    <string name="messages">Messages</string>
+    <string name="friends">Friends</string>
+    <string name="search">Search</string>
+    <string name="aboutshareme1">About ShareMe</string>
+    <string name="payment">Payment Details</string>
+    <string name="logout">Log Out</string>
+
+
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/user_account"
+            android:icon="@drawable/useraccount"
+            android:title="@string/useraccount" />
+        <item
+            android:id="@+id/lent"
+            android:icon="@drawable/lent"
+            android:title="@string/whatilent"/>
+        <item
+            android:id="@+id/borrow"
+            android:icon="@drawable/borrow"
+            android:title="@string/whatiborrow" />
+        <item
+            android:id="@+id/messages"
+            android:icon="@android:drawable/ic_dialog_email"
+            android:title="@string/messages" />
+        <item
+            android:id="@+id/friends"
+            android:icon="@drawable/friends"
+            android:title="@string/friends" />
+        <item
+            android:id="@+id/search"
+            android:icon="@android:drawable/ic_search_category_default"
+            android:title="@string/search" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/aboutshareme1" />
+
+        <item
+            android:id="@+id/creditcard"
+            android:icon="@drawable/credit"
+            android:title="@string/payment"/>
+        <item
+            android:id="@+id/logout"
+            android:icon="@android:drawable/ic_lock_power_off"
+            android:title="@string/logout" />
+    </group>
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491349303257",
+    "firebase_url": "https://shareme-4d461.firebaseio.com",
+    "project_id": "shareme-4d461",
+    "storage_bucket": "shareme-4d461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491349303257:android:730de6b9c4d4e206",
+        "android_client_info": {
+          "package_name": "com.example.shareme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491349303257-ekk2ahgh9i5t27i4lgirv7rmbim03207.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shareme",
+            "certificate_hash": "5c8d052c43929f9b1dc574174729c7d0ab417d3f"
+          }
+        },
+        {
+          "client_id": "491349303257-2vc5534u7038li7ofsaqi0v3usmhd4un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWJxL6BkD4xj9_Fy0pZIlP31CGyjMJ5Ys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491349303257-2vc5534u7038li7ofsaqi0v3usmhd4un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

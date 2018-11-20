@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="borrow">#69da6b</color>
+    <color name="lent">#76aed4</color>
+    <color name="history">#76aed4</color>
+    <color name="share">#69da6b</color>
+</resources>
